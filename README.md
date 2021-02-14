@@ -1,6 +1,6 @@
 - :shipit: I’m an SRE at SolarWinds
 - 🏢 [LinkedIn](https://www.linkedin.com/in/michaeltitus/)
 - 💬 [@MiketTitus](https://twitter.com/@MiketTitus)
-- 🖥 [HackerRank] (https://www.hackerrank.com/acct2)
-- 🖥 [LeetCode] (https://leetcode.com/miketitus/)
+- 🖥 [HackerRank](https://www.hackerrank.com/acct2)
+- 🖥 [LeetCode](https://leetcode.com/miketitus/)
 - 🌳 [Northwest Corner Woodworkers Association](https://www.ncwawood.org/)
