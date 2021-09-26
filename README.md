@@ -1,4 +1,4 @@
-- :shipit: I’m an SRE at SolarWinds
+- :shipit: I’m an SRE at Shippo
 - 🏢 [LinkedIn](https://www.linkedin.com/in/michaeltitus/)
 - 💬 [@MiketTitus](https://twitter.com/@MiketTitus)
 - 🖥 [HackerRank](https://www.hackerrank.com/acct2)
